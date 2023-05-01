@@ -6,6 +6,7 @@ A project for predicting house prices in Melbourne
   * Sklearn.tree
   * Sklearn.metrics
   * Sklearn.ensemble
+  
 Two types of machine learning algorithms used:
 - Decision Trees
 - Random Forest 
